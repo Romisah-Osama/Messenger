@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">1:612032771880:android:6662194466476d6da2821d</string>
+    <string name="firebase_database_url" translatable="false">https://the-task-91d4e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">612032771880</string>
+    <string name="google_api_key" translatable="false">AIzaSyDCdmljRYHRT9tdruU7gDGdXTlxfJc0Ye0</string>
+    <string name="google_app_id" translatable="false">1:612032771880:android:6662194466476d6da2821d</string>
+    <string name="project_id" translatable="false">the-task-91d4e</string>
+</resources>
